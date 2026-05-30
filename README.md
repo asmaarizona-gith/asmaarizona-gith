@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Asma! 👋
 
 ### 🚀 About Me
@@ -34,7 +32,7 @@ Check out my latest work and web projects!
   </tr>
   <tr>
     <td align="center" width="150">
-      <img src="https://www.vectorlogo.zone/logos/adobe_photoshop/adobe_photoshop-icon.svg" alt="photoshop" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/>
       <br /><b>Adobe Photoshop</b>
     </td>
     <td align="center" width="150">
