@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/07e91843-64cd-4033-8780-16ff844051b8" /># Hi there, I'm Asma! 👋
+# Hi there, I'm Asma! 👋
 
 ### 🚀 About Me
 
